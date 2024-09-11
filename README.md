@@ -8,6 +8,9 @@ Tasklist: https://github.com/Hageli/fullstack_tasklist
 
 Project: https://github.com/Hageli/fullstack_project
 
+NOTICE! 
+The finished projects are imported into this repository. If you want to access the commit history of tasklist or project, it can be found in the repositories linked above. 
+
 RUNNING THE PROJECT:
 
 1. Download the project files from this Github repository or the separate one linked above.
