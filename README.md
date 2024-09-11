@@ -1,4 +1,4 @@
-#MADE BY MIRO HAGELBERG
+MADE BY MIRO HAGELBERG
 
 This is the repository of Software Development Skills: Full-stack coursework. The code for tasklist and the project are stored in separate folders within this repository.
 
@@ -8,7 +8,7 @@ Tasklist: https://github.com/Hageli/fullstack_tasklist
 
 Project: https://github.com/Hageli/fullstack_project
 
-#RUNNING THE PROJECT:
+RUNNING THE PROJECT:
 
 1. Download the project files from this Github repository or the separate one linked above.
 2. Rename the .env_temp file into .env and insert your MongoDB url into the MONGO_URL variable (.env_temp is found within the server folder)
